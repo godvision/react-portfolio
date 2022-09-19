@@ -3,8 +3,9 @@ import reactLogo from "./assets/react.svg";
 import Nav from "./components/Nav.jsx";
 import "./App.css";
 import Home from "./components/Home.jsx";
-console.log("test");
+
 function App() {
+  console.log("test");
   const [darkMode, setDarkMode] = useState(false);
   const [navToggle, setNavToggle] = useState(false);
   function menuToggle() {
