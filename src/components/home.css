@@ -1,0 +1,26 @@
+
+.home--content {
+display: flex;
+flex-direction: row;
+min-width: 200px;
+margin-right: 120px;
+margin-left: 320px;
+height: 900px;
+margin-top: 150px;
+min-width: 600px;
+}
+
+
+
+@media screen and (max-width: 1024px) { 
+    .home--content {
+        margin-left: 160px;
+        }
+}   
+
+@media screen and (max-width: 480px) { 
+    .home--content {
+        margin-left: 0px;
+        margin-top: 90px;
+        }
+}   

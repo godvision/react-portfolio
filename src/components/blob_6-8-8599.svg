@@ -1,0 +1,8 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <defs>
+    <clipPath id="shape">
+      <path id="blob" d="M407,348Q363,446,252,442.5Q141,439,76.5,344.5Q12,250,76,154.5Q140,59,252.5,55Q365,51,408,150.5Q451,250,407,348Z" fill="none" stroke-width="7px" stroke="#d1d8e0"></path>
+    </clipPath>
+  </defs>
+  <image x="0" y="0" width="100%" height="100%" clip-path="url(#shape)" xlink:href="https://media.discordapp.net/attachments/420258952748728333/1021136205175328768/Screenshot_20220918-184122_Gallery.jpg?width=347&amp;height=468" preserveAspectRatio="none"></image>
+</svg>
