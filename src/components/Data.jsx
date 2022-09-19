@@ -3,7 +3,6 @@ import { AiOutlineArrowDown } from "react-icons/ai";
 import "./data.css";
 
 export default function Data(props) {
-  console.log("test");
   return (
     <>
       <div className="data--container">
